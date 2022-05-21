@@ -100,7 +100,7 @@ In addition to submitting your project on Bootcamp Spot individually, please [fi
 
 ## Usage
 
-## Installation instructions
+## Installation Instructions
 
 ## Results Summary
 
