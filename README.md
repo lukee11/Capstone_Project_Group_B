@@ -1,7 +1,25 @@
-# Capstone_Project_Group_B
+# Capstone_Project_Group_B - Algorithmic Trading 
+Prepared by:  Jacky Hong, Paaras Dhaliwal, Shavan Patel and Luke Evans. 
 
-# Topic ideas?
-* Automated algorithmic trading system for stocks 
+# Overview
+* This project evaluates different technical analysis trading strategies through quantitative testing to understand if we can add value compared to randomly selecting trades. The end goal is to create a rule based trading strategy using a scientific approach.
+
+# Usage
+It creates the framework and method to approach quantitative testing on various trading instruments. 
+
+## Installs
+import yfinance as yf
+import datetime
+import numpy as np
+import matplotlib.pyplot as plt
+import hvplot.pandas
+import pandas as pd
+import quantstats as qs
+import talib as ta
+
+## Results
+Ichimoku cloud and RSI.
+
 
 # Capstone Project Guidelines
 
