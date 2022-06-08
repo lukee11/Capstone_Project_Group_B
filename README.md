@@ -1,4 +1,4 @@
-# Capstone_Project_Group_B - Algorithmic Trading with statistics instead of emotion
+# Capstone_Project_Group_B - Algorithmic Trading
 Prepared by:  Jacky Hong, Paaras Dhaliwal, Shavan Patel and Luke Evans. 
 
 ![[head.jpg]](images/head.jpg)
