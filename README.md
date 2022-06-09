@@ -27,7 +27,7 @@ To create a framework and method to approach quantitative testing on various fin
 
 ## Results
 
-### ADX and SAR sy=trategy 
+### ADX and SAR strategy 
 
 
 ![[adx_sar_metrics]](images/adx_sar_metrics.png)
