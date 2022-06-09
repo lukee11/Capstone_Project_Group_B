@@ -26,7 +26,8 @@ To create a framework and method to approach quantitative testing on various fin
 * quantsats
 
 ## Results
-### ADX and SAR
+
+### ADX and SAR sy=trategy 
 
 
 ![[adx_sar_metrics]](images/adx_sar_metrics.png)
@@ -38,16 +39,21 @@ To create a framework and method to approach quantitative testing on various fin
 ![[adx_sar_summary]](images/adx_sar_summary.PNG)
 
 
-### Ichimoku Cloud and RSI
+### Ichimoku Cloud and RSI strategy
+
 ![[ichimoku_benchmark_vol]](images/ichimoku_benchmark_volatility.png)
+
 
 ![[ichi_drawdowns]](images/ichi_underwater.png)
 
 
 ### Channel Breakout Strategy
+
 ![[channel_BO]](images/channel_bo.png)
 
+### Forex Strategy
 
+![[FX]](images/forex.png)
 
 
 
