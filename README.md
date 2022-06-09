@@ -35,7 +35,7 @@ To create a framework and method to approach quantitative testing on various fin
 ![[adx_sar_metrics_2]](images/adx_sar_metrics_2.png)
 
 
-![[adx_sar_summary]](images/adx_sar_summary.png)
+![[adx_sar_summary]](images/adx_sar_summary.PNG)
 
 
 ### Ichimoku Cloud and RSI
