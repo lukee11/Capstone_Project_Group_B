@@ -26,11 +26,34 @@ To create a framework and method to approach quantitative testing on various fin
 * quantsats
 
 ## Results
+### ADX and SAR
+
+
+![[adx_sar_metrics]](images/adx_sar_metrics.png)
+
+
+![[adx_sar_metrics_2]](images/adx_sar_metrics_2.png)
+
+
+![[adx_sar_summary]](images/adx_sar_summary.png)
+
+
+### Ichimoku Cloud and RSI
+![[ichimoku_benchmark_vol]](images/ichimoku_benchmark_volatility.png)
+
+![[ichi_drawdowns]](images/ichi_underwater.png)
+
+
+### Channel Breakout Strategy
+![[channel_BO]](images/channel_bo.png)
+
+
 
 
 
 ## Improvements
-Build a consistent testing framework template across similar assets to prevent path dependency. 
+Build a consistent testing framework template across similar assets and attempt to eliminate market trend (positive returns from the signal and not from the general market moves)
+and path dependency from optimisation. 
 
 
 ---
