@@ -58,7 +58,7 @@ To create a framework and method to approach quantitative testing on various fin
 
 
 ## Improvements
-Build a testing framework template to utilise across all instruments and attempt to eliminate market trends (positive returns from the signal, not from the general market moves) and path dependency from optimization.
+Build a testing framework template to utilise across all instruments and attempt to eliminate market trends (positive returns from the signal, not from the general market moves) and path dependency from optimisation.
 
 ---
 
